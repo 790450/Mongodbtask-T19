@@ -1,0 +1,28 @@
+[{
+    "_id": 1,
+    "user_id": 21,
+    "name":"Musraf",
+    "date":"2020-10-16",
+    "present": true
+  },
+    {
+    "_id": 2,
+    "user_id": 22,
+      "name":"Hasim",
+    "date":"2020-10-25",
+    "present":true
+  },
+    {
+    "_id": 3,
+    "user_id": 23,
+      "name":"Althaaf",
+    "date":"2020-10-15",
+    "present":false
+  },
+     {
+    "_id": 4,
+    "user_id": 24,
+    "date":"2020-10-19",
+       "name":"Salman",
+    "present":false
+  }]
