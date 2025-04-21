@@ -1,0 +1,26 @@
+[{
+    "_id":1,
+    "company": "TCS",
+    "date":"15-10-2020",
+    "students_ids":[
+      21,
+      22
+    ]
+  },
+    {
+    "_id":2,
+    "company": "DELLOITE",
+    "date":"20-10-2020",
+    "students_ids":[
+      23
+    ]
+  },
+    {
+    "_id":3,
+    "company": "GUVI",
+    "date":"25-10-2020",
+    "students_ids":[
+      24
+    ]
+  }]
+    
