@@ -1,0 +1,15 @@
+[{
+    "_id":1,
+    "name":"Manikandan",
+    "role":"Fsd tariner"
+  },
+    {
+    "_id":2,
+    "name":"John",
+    "role":"Data science tariner"
+  },
+    {
+    "_id":1,
+    "name":"Rohit",
+    "role":"Python tariner"
+  }]
