@@ -2,27 +2,27 @@
     "_id": 1,
     "user_id": 21,
     "name":"Musraf",
-    "date":"2020-10-16",
+    "date":"16-10-2020",
     "present": true
   },
     {
     "_id": 2,
     "user_id": 22,
       "name":"Hasim",
-    "date":"2020-10-25",
+    "date":"25-10-2020",
     "present":true
   },
     {
     "_id": 3,
     "user_id": 23,
       "name":"Althaaf",
-    "date":"2020-10-15",
+    "date":"15-10-2020",
     "present":false
   },
      {
     "_id": 4,
     "user_id": 24,
-    "date":"2020-10-19",
+    "date":"19-10-2020",
        "name":"Salman",
     "present":false
   }]
